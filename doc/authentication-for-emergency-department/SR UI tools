@@ -1,0 +1,7 @@
+Currently we have 3 technologies for developing user interfaces: -
+
+1. DevExpress
+2. MudBlazor
+3. View Components
+
+need to decide on a single consistent UI tool going forward.
